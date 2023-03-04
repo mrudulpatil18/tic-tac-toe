@@ -1,9 +1,9 @@
 
 # Tic-Tac-Toe
 
-Small webpage project to practice and implement modules and factory functions (JS) practically. 
-Allows two players to play a single instance of classic puzzle game.
-It provides a feature to reset the board and provide a winner. 
+Small web-project to practice and implement modules and factory functions (JS) practically. 
+Allows two players to play a single instance of the classic puzzle game.
+It provides a feature to reset the board and announces a winner. 
 
 [Website Link](https://mrudulpatil18.github.io/tic-tac-toe/)
 
