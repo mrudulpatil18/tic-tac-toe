@@ -5,7 +5,7 @@ Small webpage project to practe and implement modules and factory functions (JS)
 Allows two players to play a single instance of classic puzzle game.
 It provides a feature to reset the board and provide a winner. 
 
-
+[Website Link](https://mrudulpatil18.github.io/tic-tac-toe/)
 
 ## Authors
 
